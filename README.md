@@ -95,9 +95,8 @@ The system was optimized for performance, with metrics showing:
 ## Contact
 If you have any questions or need further assistance, please feel free to contact:
 
-- **Name**: Noor Jahan Jedne
-- **Email**: jedne.noor@gmail.com
+- **Name**:
+- **Email**:
 - **GitHub**:
-- 
 
 
